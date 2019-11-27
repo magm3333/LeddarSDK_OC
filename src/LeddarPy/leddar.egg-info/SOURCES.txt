@@ -1,0 +1,8 @@
+setup.py
+./Connecters.cpp
+./LeddarPy.cpp
+./LeddarPyDevice.cpp
+leddar.egg-info/PKG-INFO
+leddar.egg-info/SOURCES.txt
+leddar.egg-info/dependency_links.txt
+leddar.egg-info/top_level.txt
